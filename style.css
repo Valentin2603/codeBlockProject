@@ -11,8 +11,13 @@
 }
 
 body {
+<<<<<<< HEAD
     margin: 22px;
     padding: 30px;
+=======
+    margin: 10;
+    padding: 10;
+>>>>>>> origin/main
 }
 
 h1 {
