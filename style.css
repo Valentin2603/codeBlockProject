@@ -11,13 +11,10 @@
 }
 
 body {
-<<<<<<< HEAD
-    margin: 22px;
+< < < < < < < HEAD margin: 22 px;
     padding: 30px;
-=======
-    margin: 10;
-    padding: 10;
->>>>>>> origin/main
+
+>>> >>> > origin / main
 }
 
 h1 {
@@ -46,7 +43,7 @@ p {
     min-height: 100vh;
     padding: 8px 50px;
     background-color: #02f;
-    background-image: url("bg.svg");
+
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -93,13 +90,6 @@ p {
     background-size: cover;
 }
 
-.article_first {
-    background-image: url("first_bg.jpg");
-}
-
-.article_second {
-    background-image: url("second_bg.jpg");
-}
 
 .form {
     position: relative;
